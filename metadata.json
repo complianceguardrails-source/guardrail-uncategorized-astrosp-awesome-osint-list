@@ -1,0 +1,20 @@
+{
+  "guardrail_package_metadata": {
+    "name": "guardrail-astrosp-awesome-osint-list",
+    "use_case": "Astrosp/Awesome-OSINT-List",
+    "sector": "Uncategorized",
+    "modality": "structured",
+    "risk_tier": "unclassified",
+    "active_semver": "v0.1.0",
+    "framework": "open_policy_agent",
+    "indexed_global_regulatory_dependencies": [
+      {
+        "legal_reference_id": "United States of America-curated-list:EthicalML/awesome-artificial-intelligence-regulation-https-www-ftc-gov-enforcement-statutes-fair-credit-reporting-act",
+        "authority": "curated-list:EthicalML/awesome-artificial-intelligence-regulation",
+        "jurisdiction": "United States of America",
+        "source_url": "https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act",
+        "mandate": "[Regulation and Policy] Fair Credit Reporting Act 2018"
+      }
+    ]
+  }
+}
