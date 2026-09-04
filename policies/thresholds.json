@@ -1,0 +1,4 @@
+{
+  "note": "Numeric compliance bounds referenced by rules.rego. Populate from the specific regulations below before enforcing.",
+  "thresholds": {}
+}
